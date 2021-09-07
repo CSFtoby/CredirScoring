@@ -1,0 +1,7 @@
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\bin\Debug\Notificaciones.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\bin\Debug\Notificaciones.pdb
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\Notificaciones.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\Notificaciones.pdb
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\Notificaciones.Notification.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\Notificaciones.TransDialog.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\Notificaciones.csproj.GenerateResource.Cache

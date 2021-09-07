@@ -1,0 +1,865 @@
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\bin\Debug\Docsis.exe.config
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\bin\Debug\Docsis.exe.manifest
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\bin\Debug\Docsis.application
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\bin\Debug\Docsis.exe
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\bin\Debug\Docsis.pdb
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\bin\Debug\CoopSafa_dll.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\bin\Debug\wfcModel.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\bin\Debug\wfcModel.pdb
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\bin\Debug\Interop.WMPLib.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csprojResolveAssemblyReference.cache
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Interop.WMPLib.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csproj.ResolveComReference.cache
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_AnalisisCualitativo.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_AnalisisCuantitativo.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_ControlDocumental.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_CroquisFormato.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_HojaRuta.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_ResolucionComite.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_solicitud.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Analistas_observaciones.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.PleaseWaitForm.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.PopupMessenger.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_acerca_de.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_add_instruc_desembolso.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_admin_resoluciones.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_AnalisisCredito_01.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analisis_cuantitativo.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analistas_observacion.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscarfiliales.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscarusuarios.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_calcliquidacion_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_opciones_borrar.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cerrar_solicitud.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Conciliacion_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_excepciones_doc01.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_excepciones_doc02.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_filiales_usuario.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniestado_cliente.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_resolucionsol_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones_miembros.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Comites.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_mover_solicitud.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info01.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solic_abiertas.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_asignar_analista.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscar_sol.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_opciones_add.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_clasificar_sol.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_decisiones.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_decisiones_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_documentos.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_documentos_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc_wf.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_user_estacion.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_marcar_abandono_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_mensajes_detalle.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_asignacion.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_solic.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_usuario.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_notas_aceptar.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_recibirdocs.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.MDI_Menu.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_add_notas.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_adjuntos_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_consclientes.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_documentossolic_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_enviar_sol_wf.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_login.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Properties.Resources.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_seguimiento_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_conshist.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_detalle.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_conf.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_conf_det01.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_marcaerror_doc.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_usuario_preferencias01.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_usuario_profile.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.xmlViewer.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.xmlViewer_list.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csproj.GenerateResource.Cache
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\RdlCompile.cache
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\RdlCompile.compiled
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis.TrustInfo.xml
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis.exe.manifest
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis.application
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis.exe
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoring\obj\Debug\Docsis.pdb
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csprojResolveAssemblyReference.cache
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Interop.WMPLib.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csproj.ResolveComReference.cache
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.ComentarioResolucion.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_add_notas.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_lineamiento.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_regla.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_tipo_excepcion.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_excepciones.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_lineamientos.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_reglas_excepciones.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_documento_excep.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_mover_excepcion.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_nueva_excepcion_solicitud.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_excepcion_mov.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FormsInformativo.s_infoproducto.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_AnalisisCualitativo.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_AnalisisCuantitativo.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_ControlDocumental.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_CroquisFormato.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_FormatoExcepcion.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_HojaRuta.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Prestamos_observaciones.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Reporte1.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Reporte2.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_ResolucionComite.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Analistas_observaciones.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.PleaseWaitForm.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.PopupMessenger.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_acerca_de.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_add_instruc_desembolso.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_admin_resoluciones.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_AnalisisCredito_01.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analisis_cuantitativo.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analistas_observacion.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscarfiliales.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscarusuarios.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_calcliquidacion_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_opciones_borrar.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cefinfodocentes_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cerrar_solicitud.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_firmas_miembros_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_firmas_miembros_doc02.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc_wf02.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Conciliacion_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_conciliacion_doc02.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_excepciones_doc01.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_excepciones_doc02.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_filiales_usuario.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniestado_cliente.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info02.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info03.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info04.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info05.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Prestamos_observaciones.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_resolucionsol_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones_miembros.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Comites.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_mover_solicitud.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info01.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitudes_resoluciones.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_detalle01.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solic_abiertas.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_asignar_analista.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscar_sol.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_opciones_add.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_clasificar_sol.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_decisiones.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_decisiones_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_documentos.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_documentos_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc_wf.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_user_estacion.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_marcar_abandono_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_mensajes_detalle.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_asignacion.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_solic.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_usuario.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_notas_aceptar.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_recibirdocs.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.MDI_Menu.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_add_notas.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_adjuntos_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_consclientes.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_documentossolic_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_enviar_sol_wf.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_login.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.Properties.Resources.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_seguimiento_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_conshist.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_detalle.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_conf.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_conf_det01.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_marcaerror_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_usuario_preferencias01.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_usuario_profile.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.s_zonasriegos_doc.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.xmlViewer.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.xmlViewer_list.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csproj.GenerateResource.Cache
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\RdlCompile.cache
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\RdlCompile.compiled
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\CreditScoring.exe.config
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\CreditScoring.exe.manifest
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\CreditScoring.application
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\CreditScoring.exe
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\CreditScoring.pdb
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\CoopSafa_dll.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\FlashControlV71.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\Notificaciones.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\QRGenHGP.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\SigPlusNET.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\wfcModel.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\stdole.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\Interop.WMPLib.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\CreditScoring.TrustInfo.xml
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\CreditScoring.exe.manifest
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\CreditScoring.application
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\CreditScoring.exe
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\CreditScoring.pdb
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_solicitud.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Excepciones.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.exe.config
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.exe.manifest
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.application
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.exe
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.pdb
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\CoopSafa_dll.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\FlashControlV71.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\Notificaciones.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\QRGenHGP.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\SigPlusNET.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\wfcModel.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\stdole.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\Interop.WMPLib.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csprojResolveAssemblyReference.cache
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Interop.WMPLib.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csproj.ResolveComReference.cache
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.ComentarioResolucion.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_add_notas.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_admnin_excepciones.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_lineamiento.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_regla.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_tipo_excepcion.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_excepciones.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_lineamientos.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_reglas_excepciones.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_documento_excep.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_mover_excepcion.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_nueva_excepcion_solicitud.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_excepcion_mov.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_resoluciones_excp.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.ListadoAnalistas.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.e_historial_excepciones.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FormsInformativo.s_infoproducto.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_AnalisisCualitativo.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_AnalisisCuantitativo.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_ControlDocumental.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_CroquisFormato.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Excepciones.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_FormatoExcepcion.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_HojaRuta.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Prestamos_observaciones.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Reporte1.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Reporte2.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_ResolucionComite.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Analistas_observaciones.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_solicitud.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.PleaseWaitForm.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.PopupMessenger.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_acerca_de.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_add_instruc_desembolso.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_admin_resoluciones.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_AnalisisCredito_01.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analisis_cuantitativo.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analistas_observacion.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscarfiliales.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscarusuarios.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_calcliquidacion_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_opciones_borrar.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cefinfodocentes_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cerrar_solicitud.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_firmas_miembros_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_firmas_miembros_doc02.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc_wf02.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Conciliacion_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_conciliacion_doc02.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_excepciones_doc01.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_excepciones_doc02.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_filiales_usuario.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniestado_cliente.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info02.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info03.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info04.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info05.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Prestamos_observaciones.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_resolucionsol_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones_miembros.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Comites.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_mover_solicitud.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info01.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitudes_resoluciones.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_detalle01.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solic_abiertas.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_asignar_analista.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscar_sol.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_opciones_add.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_clasificar_sol.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_decisiones.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_decisiones_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_documentos.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_documentos_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc_wf.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_user_estacion.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_marcar_abandono_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_mensajes_detalle.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_asignacion.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_solic.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_usuario.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_notas_aceptar.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_recibirdocs.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.MDI_Menu.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_add_notas.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_adjuntos_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_consclientes.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_documentossolic_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_enviar_sol_wf.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_login.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Properties.Resources.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_seguimiento_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_conshist.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_detalle.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_conf.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_conf_det01.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_marcaerror_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_usuario_preferencias01.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_usuario_profile.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_zonasriegos_doc.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.xmlViewer.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.xmlViewer_list.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csproj.GenerateResource.Cache
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\RdlCompile.cache
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\RdlCompile.compiled
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.TrustInfo.xml
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.exe.manifest
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.application
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.exe
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.pdb
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.exe.config
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.exe.manifest
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.application
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.exe
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.pdb
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\CoopSafa_dll.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\FlashControlV71.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\Notificaciones.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\QRGenHGP.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\SigPlusNET.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\wfcModel.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\ShockwaveFlashObjects.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\stdole.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\Notificaciones.pdb
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\wfcModel.pdb
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\Interop.WMPLib.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\bin\Debug\AxInterop.WMPLib.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csprojResolveAssemblyReference.cache
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Interop.WMPLib.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\AxInterop.WMPLib.dll
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csproj.ResolveComReference.cache
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.ComentarioResolucion.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_add_notas.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_admnin_excepciones.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_lineamiento.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_regla.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_tipo_excepcion.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_excepciones.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_lineamientos.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_reglas_excepciones.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_documento_excep.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_mover_excepcion.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_nueva_excepcion_solicitud.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_excepcion_mov.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_resoluciones_excp.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.ListadoAnalistas.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.e_historial_excepciones.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FormsInformativo.s_infoproducto.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_AnalisisCualitativo.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_AnalisisCuantitativo.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_ControlDocumental.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_CroquisFormato.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Excepciones.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_FormatoExcepcion.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_HojaRuta.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Prestamos_observaciones.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Reporte1.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Reporte2.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_ResolucionComite.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Analistas_observaciones.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_solicitud.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.PleaseWaitForm.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.PopupMessenger.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_acerca_de.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_add_instruc_desembolso.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_admin_resoluciones.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_AnalisisCredito_01.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analisis_cuantitativo.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analisis_cuantitativo02.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analisis_cuantitativo03.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analistas_observacion.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscarfiliales.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscarusuarios.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_calcliquidacion_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_opciones_borrar.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cefinfodocentes_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cerrar_solicitud.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_firmas_miembros_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_firmas_miembros_doc02.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc_wf02.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Conciliacion_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_conciliacion_doc02.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_excepciones_doc01.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_excepciones_doc02.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_filiales_usuario.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniestado_cliente.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info02.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info03.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info04.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info05.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Prestamos_observaciones.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_resolucionsol_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones_miembros.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Comites.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_mover_solicitud.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info01.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitudes_resoluciones.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_detalle01.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solic_abiertas.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_asignar_analista.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscar_sol.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_opciones_add.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_clasificar_sol.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_decisiones.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_decisiones_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_documentos.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_documentos_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc_wf.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_user_estacion.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_marcar_abandono_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_mensajes_detalle.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_asignacion.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_solic.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_usuario.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_notas_aceptar.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_recibirdocs.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.MDI_Menu.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_add_notas.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_adjuntos_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_consclientes.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_documentossolic_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_enviar_sol_wf.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_login.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Properties.Resources.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_seguimiento_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_conshist.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_detalle.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_conf.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_conf_det01.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_marcaerror_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_usuario_preferencias01.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_usuario_profile.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_zonasriegos_doc.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.xmlViewer.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.xmlViewer_list.resources
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csproj.GenerateResource.Cache
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\RdlCompile.cache
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\RdlCompile.compiled
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.TrustInfo.xml
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.exe.manifest
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.application
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.exe
+C:\Compartido\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csprojResolveAssemblyReference.cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Interop.WMPLib.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csproj.ResolveComReference.cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.ComentarioResolucion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_add_notas.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_admnin_excepciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_lineamiento.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_regla.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_tipo_excepcion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_excepciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_lineamientos.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_reglas_excepciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_documento_excep.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_mover_excepcion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_nueva_excepcion_solicitud.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_excepcion_mov.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_resoluciones_excp.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.ListadoAnalistas.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.e_historial_excepciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FormsInformativo.s_infoproducto.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_AnalisisCualitativo.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_AnalisisCuantitativo.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_ControlDocumental.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_CroquisFormato.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Excepciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_FormatoExcepcion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_HojaRuta.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Prestamos_observaciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Reporte1.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Reporte2.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_ResolucionComite.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Analistas_observaciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_solicitud.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.PleaseWaitForm.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.PopupMessenger.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_acerca_de.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_add_instruc_desembolso.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_admin_resoluciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_AnalisisCredito_01.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analisis_cuantitativo.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analisis_cuantitativo02.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analisis_cuantitativo03.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analistas_observacion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscarfiliales.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscarusuarios.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_calcliquidacion_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_opciones_borrar.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cefinfodocentes_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cerrar_solicitud.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_firmas_miembros_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_firmas_miembros_doc02.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc_wf02.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Conciliacion_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_conciliacion_doc02.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_excepciones_doc01.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_excepciones_doc02.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_filiales_usuario.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniestado_cliente.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info02.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info03.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info04.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info05.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Prestamos_observaciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_resolucionsol_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones_miembros.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Comites.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_mover_solicitud.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info01.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitudes_resoluciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_detalle01.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solic_abiertas.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_asignar_analista.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscar_sol.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_opciones_add.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_clasificar_sol.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_decisiones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_decisiones_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_documentos.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_documentos_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc_wf.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_user_estacion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_marcar_abandono_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_mensajes_detalle.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_asignacion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_solic.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_usuario.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_notas_aceptar.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_recibirdocs.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.MDI_Menu.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_add_notas.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_adjuntos_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_consclientes.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_documentossolic_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_enviar_sol_wf.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_login.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Properties.Resources.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_seguimiento_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_conshist.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_detalle.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_conf.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_conf_det01.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_marcaerror_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_usuario_preferencias01.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_usuario_profile.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_zonasriegos_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.xmlViewer.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.xmlViewer_list.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csproj.GenerateResource.Cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\RdlCompile.cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\RdlCompile.compiled
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.exe.config
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.exe.manifest
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.application
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.exe
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\CoopSafa_dll.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\FlashControlV71.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\Notificaciones.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\QRGenHGP.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\SigPlusNET.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\System.ValueTuple.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\wfcModel.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\stdole.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\System.ValueTuple.xml
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\Interop.WMPLib.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.TrustInfo.xml
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.exe.manifest
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.application
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.exe
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.exe.config
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.exe.manifest
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.application
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.exe
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\CreditScoring.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\CoopSafa_dll.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\FlashControlV71.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\Notificaciones.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\QRGenHGP.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\SigPlusNET.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\System.ValueTuple.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\wfcModel.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\stdole.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\System.ValueTuple.xml
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\Interop.WMPLib.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csprojResolveAssemblyReference.cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Interop.WMPLib.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csproj.ResolveComReference.cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.ComentarioResolucion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_add_notas.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_admnin_excepciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_buscar_excepcion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_lineamiento.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_regla.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_agregar_tipo_excepcion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_excepciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_lineamientos.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_cnf_reglas_excepciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_documento_excep.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_excepciones_semaforo.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_mover_excepcion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_nueva_excepcion_solicitud.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_excepcion_mov.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.e_resoluciones_excp.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.ListadoAnalistas.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Excepciones.r_resoluciones_miembros.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.e_historial_excepciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.e_motivo_anulacion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FormsInformativo.s_infoproducto.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.DocMinisterioPublico.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_AnalisisCualitativo.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_AnalisisCuantitativo.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_ControlDocumental.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_CroquisFormato.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Excepciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_FormatoExcepcion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_HojaRuta.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Prestamos_observaciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Reporte1.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Reporte2.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_ResolucionComite.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_Analistas_observaciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.frmRpt_solicitud.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.FrmsRpts.RptMensualesSolicitudes.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.PleaseWaitForm.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.PopupMessenger.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_acerca_de.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_add_instruc_desembolso.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_admin_resoluciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_AnalisisCredito_01.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analisis_cuantitativo.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analisis_cuantitativo02.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analisis_cuantitativo03.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_analistas_observacion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscarfiliales.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscarusuarios.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_calcliquidacion_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_opciones_borrar.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cefinfodocentes_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cerrar_solicitud.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_firmas_miembros_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_firmas_miembros_doc02.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc_wf02.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Conciliacion_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_conciliacion_doc02.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_excepciones_doc01.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_excepciones_doc02.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_filiales_usuario.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniestado_cliente.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_preanalisis.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info02.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info03.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info04.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info05.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Prestamos_observaciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_resolucionsol_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones_miembros.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_Comites.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_mover_solicitud.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_PreCalificado_info01.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitudes_resoluciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_detalle01.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solic_abiertas.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_asignar_analista.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_buscar_sol.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_carpetas_opciones_add.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_clasificar_sol.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_decisiones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_decisiones_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_documentos.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_documentos_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_estaciones_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc_wf.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_user_estacion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_marcar_abandono_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_mensajes_detalle.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_asignacion.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_solic.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_miniinfo_usuario.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_notas_aceptar.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_recibirdocs.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.MDI_Menu.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_add_notas.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_adjuntos_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_consclientes.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_documentossolic_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_enviar_sol_wf.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_login.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.Properties.Resources.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_seguimiento_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_conshist.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_detalle.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_conf.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_conf_det01.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_cnf_workflow_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_solicitud_marcaerror_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_usuario_preferencias01.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_usuario_profile.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.s_zonasriegos_doc.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.xmlViewer.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Docsis_Application.xmlViewer_list.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\Pry_CreditScoring.csproj.GenerateResource.Cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\RdlCompile.cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\RdlCompile.compiled
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.TrustInfo.xml
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.exe.manifest
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.application
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.exe
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Pry_CreditScoring\obj\Debug\CreditScoring.pdb

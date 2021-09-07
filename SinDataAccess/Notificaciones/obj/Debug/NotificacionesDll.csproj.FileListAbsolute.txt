@@ -1,0 +1,67 @@
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\bin\Debug\Notificaciones.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\bin\Debug\Notificaciones.pdb
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.Notification_style2.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.Notification_style1.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\Notificaciones.Properties.Resources.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.TransDialog.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.csproj.GenerateResource.Cache
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\Notificaciones.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\Notificaciones.pdb
+C:\Users\AD03F100\Documents\Visual Studio 2015\Projects\Pry_CreditScoring\Notificaciones\bin\Debug\Notificaciones.dll
+C:\Users\AD03F100\Documents\Visual Studio 2015\Projects\Pry_CreditScoring\Notificaciones\bin\Debug\Notificaciones.pdb
+C:\Users\AD03F100\Documents\Visual Studio 2015\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.Notification_style2.resources
+C:\Users\AD03F100\Documents\Visual Studio 2015\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.Notification_style1.resources
+C:\Users\AD03F100\Documents\Visual Studio 2015\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\Notificaciones.Properties.Resources.resources
+C:\Users\AD03F100\Documents\Visual Studio 2015\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.TransDialog.resources
+C:\Users\AD03F100\Documents\Visual Studio 2015\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.csproj.GenerateResource.Cache
+C:\Users\AD03F100\Documents\Visual Studio 2015\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\Notificaciones.dll
+C:\Users\AD03F100\Documents\Visual Studio 2015\Projects\Pry_CreditScoring\Notificaciones\obj\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Notificaciones\bin\Debug\Notificaciones.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Notificaciones\bin\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Notificaciones\obj\Debug\NotificacionesDll.Notification_style2.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Notificaciones\obj\Debug\NotificacionesDll.Notification_style1.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Notificaciones\obj\Debug\Notificaciones.Properties.Resources.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Notificaciones\obj\Debug\NotificacionesDll.TransDialog.resources
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Notificaciones\obj\Debug\NotificacionesDll.csproj.GenerateResource.Cache
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Notificaciones\obj\Debug\Notificaciones.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\Notificaciones\obj\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Notificaciones\bin\Debug\Notificaciones.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Notificaciones\bin\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.Notification_style2.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.Notification_style1.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Notificaciones\obj\Debug\Notificaciones.Properties.Resources.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.TransDialog.resources
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.csproj.GenerateResource.Cache
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Notificaciones\obj\Debug\Notificaciones.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Notificaciones\obj\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.csprojResolveAssemblyReference.cache
+C:\Compartido\CreditScoring\Notificaciones\bin\Debug\Notificaciones.dll
+C:\Compartido\CreditScoring\Notificaciones\bin\Debug\Notificaciones.pdb
+C:\Compartido\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.csprojResolveAssemblyReference.cache
+C:\Compartido\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.Notification_style2.resources
+C:\Compartido\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.Notification_style1.resources
+C:\Compartido\CreditScoring\Notificaciones\obj\Debug\Notificaciones.Properties.Resources.resources
+C:\Compartido\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.TransDialog.resources
+C:\Compartido\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.csproj.GenerateResource.Cache
+C:\Compartido\CreditScoring\Notificaciones\obj\Debug\Notificaciones.dll
+C:\Compartido\CreditScoring\Notificaciones\obj\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Notificaciones\bin\Debug\Notificaciones.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Notificaciones\bin\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.csprojResolveAssemblyReference.cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.Notification_style2.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.Notification_style1.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Notificaciones\obj\Debug\Notificaciones.Properties.Resources.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.TransDialog.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.csproj.GenerateResource.Cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Notificaciones\obj\Debug\Notificaciones.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\Notificaciones\obj\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Notificaciones\bin\Debug\Notificaciones.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Notificaciones\bin\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.Notification_style2.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.Notification_style1.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Notificaciones\obj\Debug\Notificaciones.Properties.Resources.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.TransDialog.resources
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.csproj.GenerateResource.Cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Notificaciones\obj\Debug\Notificaciones.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Notificaciones\obj\Debug\Notificaciones.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\Notificaciones\obj\Debug\NotificacionesDll.csprojResolveAssemblyReference.cache

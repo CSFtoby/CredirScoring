@@ -1,0 +1,36 @@
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\wfcModel\bin\Debug\wfcModel.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\wfcModel\bin\Debug\wfcModel.pdb
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\wfcModel\obj\Debug\wfcModel.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\wfcModel\obj\Debug\wfcModel.pdb
+C:\Users\AD03F100\Documents\Visual Studio 2015\Projects\Pry_CreditScoring\wfcModel\bin\Debug\wfcModel.dll
+C:\Users\AD03F100\Documents\Visual Studio 2015\Projects\Pry_CreditScoring\wfcModel\bin\Debug\wfcModel.pdb
+C:\Users\AD03F100\Documents\Visual Studio 2015\Projects\Pry_CreditScoring\wfcModel\obj\Debug\wfcModel.dll
+C:\Users\AD03F100\Documents\Visual Studio 2015\Projects\Pry_CreditScoring\wfcModel\obj\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\wfcModel\bin\Debug\wfcModel.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\wfcModel\bin\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\wfcModel\obj\Debug\wfcModel.dll
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\wfcModel\obj\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\CrediScoring\Excepciones\Proyecto\Pry_CreditScoring\Pry_CreditScoring19Sep2018\wfcModel\obj\Debug\wfcModel.csprojResolveAssemblyReference.cache
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\wfcModel\bin\Debug\wfcModel.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\wfcModel\bin\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\wfcModel\obj\Debug\wfcModel.dll
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\wfcModel\obj\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\Bitbucket\CreditScoring\wfcModel\obj\Debug\wfcModel.csprojResolveAssemblyReference.cache
+C:\Compartido\CreditScoring\wfcModel\bin\Debug\wfcModel.dll
+C:\Compartido\CreditScoring\wfcModel\bin\Debug\wfcModel.pdb
+C:\Compartido\CreditScoring\wfcModel\obj\Debug\wfcModel.csprojResolveAssemblyReference.cache
+C:\Compartido\CreditScoring\wfcModel\obj\Debug\wfcModel.dll
+C:\Compartido\CreditScoring\wfcModel\obj\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\wfcModel\bin\Debug\wfcModel.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\wfcModel\bin\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\wfcModel\obj\Debug\wfcModel.csprojResolveAssemblyReference.cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\wfcModel\obj\Debug\wfcModel.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\CreditScoring_20Feb2019_ultimaversion\CreditScoring\wfcModel\obj\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\wfcModel\bin\Debug\wfcModel.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\wfcModel\bin\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\wfcModel\obj\Debug\wfcModel.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\wfcModel\obj\Debug\wfcModel.pdb
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\wfcModel\obj\Debug\wfcModel.csprojResolveAssemblyReference.cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\SinDataAccess\wfcModel\obj\Debug\wfcModel.csprojResolveAssemblyReference.cache
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\SinDataAccess\wfcModel\obj\Debug\wfcModel.dll
+C:\Users\AD08F100\Documents\CreditScoringDoc\FabricaCreditos\Req#3\Fuente\CreditScoring\SinDataAccess\wfcModel\obj\Debug\wfcModel.pdb

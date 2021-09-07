@@ -1,0 +1,11 @@
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoringChat\obj\x86\Debug\Pry_CreditScoringChat.Form1.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoringChat\obj\x86\Debug\Pry_CreditScoringChat.Properties.Resources.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoringChat\obj\x86\Debug\Pry_CreditScoringChat.csproj.GenerateResource.Cache
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoringChat\bin\Debug\Pry_CreditScoringChat.exe
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoringChat\bin\Debug\Pry_CreditScoringChat.pdb
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoringChat\obj\x86\Debug\Pry_CreditScoringChat.exe
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoringChat\obj\x86\Debug\Pry_CreditScoringChat.pdb
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoringChat\obj\x86\Debug\Pry_CreditScoringChat.csprojResolveAssemblyReference.cache
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoringChat\obj\x86\Debug\Pry_CreditScoringChat.s_chatdoc_01.resources
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoringChat\bin\Debug\Notificaciones.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Pry_CreditScoringChat\bin\Debug\Notificaciones.pdb

@@ -1,0 +1,1590 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5BFD3BCF-6B47-4025-83B1-594B68DAD51D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Docsis_Application</RootNamespace>
+    <AssemblyName>CreditScoring</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>docsis.ico</ApplicationIcon>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>http://localhost/Docsis_Application/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>true</GenerateManifests>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release_my|AnyCPU' ">
+    <OutputPath>bin\Release_my\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release_my|x86' ">
+    <OutputPath>bin\x86\Release_my\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CoopSafa_dll, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dlls\CoopSafa_dll.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Runtime.Common.12.0.2402.15\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Runtime.Common.12.0.2402.15\lib\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Runtime.Common.12.0.2402.15\lib\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.19.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.19.6.0\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRGenHGP">
+      <HintPath>dlls\QRGenHGP.dll</HintPath>
+    </Reference>
+    <Reference Include="SigPlusNET">
+      <HintPath>dlls\SigPlusNET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="DSReportes.cs">
+      <DependentUpon>DSReportes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSReportes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSReportes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\ComentarioResolucion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\ComentarioResolucion.Designer.cs">
+      <DependentUpon>ComentarioResolucion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\ExcepcionesAutomaticas.cs" />
+    <Compile Include="Excepciones\e_add_notas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_add_notas.Designer.cs">
+      <DependentUpon>e_add_notas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_admnin_excepciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_admnin_excepciones.Designer.cs">
+      <DependentUpon>e_admnin_excepciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_buscar_excepcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_buscar_excepcion.Designer.cs">
+      <DependentUpon>e_buscar_excepcion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_cnf_agregar_lineamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_cnf_agregar_lineamiento.Designer.cs">
+      <DependentUpon>e_cnf_agregar_lineamiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_cnf_agregar_regla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_cnf_agregar_regla.Designer.cs">
+      <DependentUpon>e_cnf_agregar_regla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_cnf_agregar_tipo_excepcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_cnf_agregar_tipo_excepcion.Designer.cs">
+      <DependentUpon>e_cnf_agregar_tipo_excepcion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_cnf_excepciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_cnf_excepciones.Designer.cs">
+      <DependentUpon>e_cnf_excepciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_cnf_lineamientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_cnf_lineamientos.Designer.cs">
+      <DependentUpon>e_cnf_lineamientos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_cnf_reglas_excepciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_cnf_reglas_excepciones.Designer.cs">
+      <DependentUpon>e_cnf_reglas_excepciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_documento_excep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_documento_excep.Designer.cs">
+      <DependentUpon>e_documento_excep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_excepciones_semaforo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_excepciones_semaforo.Designer.cs">
+      <DependentUpon>e_excepciones_semaforo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_mover_excepcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_mover_excepcion.Designer.cs">
+      <DependentUpon>e_mover_excepcion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_nueva_excepcion_solicitud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_nueva_excepcion_solicitud.Designer.cs">
+      <DependentUpon>e_nueva_excepcion_solicitud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_excepcion_mov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_excepcion_mov.Designer.cs">
+      <DependentUpon>e_excepcion_mov.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\e_resoluciones_excp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\e_resoluciones_excp.Designer.cs">
+      <DependentUpon>e_resoluciones_excp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\ListadoAnalistas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\ListadoAnalistas.Designer.cs">
+      <DependentUpon>ListadoAnalistas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\r_resoluciones_miembros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excepciones\r_resoluciones_miembros.Designer.cs">
+      <DependentUpon>r_resoluciones_miembros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excepciones\u_Globales.cs" />
+    <Compile Include="e_historial_excepciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="e_historial_excepciones.Designer.cs">
+      <DependentUpon>e_historial_excepciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="e_motivo_anulacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="e_motivo_anulacion.Designer.cs">
+      <DependentUpon>e_motivo_anulacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsInformativo\s_infoproducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormsInformativo\s_infoproducto.Designer.cs">
+      <DependentUpon>s_infoproducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\DocMinisterioPublico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\DocMinisterioPublico.Designer.cs">
+      <DependentUpon>DocMinisterioPublico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_AnalisisCualitativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_AnalisisCualitativo.Designer.cs">
+      <DependentUpon>frmRpt_AnalisisCualitativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_AnalisisCuantitativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_AnalisisCuantitativo.Designer.cs">
+      <DependentUpon>frmRpt_AnalisisCuantitativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_ControlDocumental.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_ControlDocumental.Designer.cs">
+      <DependentUpon>frmRpt_ControlDocumental.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_CroquisFormato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_CroquisFormato.Designer.cs">
+      <DependentUpon>frmRpt_CroquisFormato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_Excepciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_Excepciones.Designer.cs">
+      <DependentUpon>frmRpt_Excepciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_FormatoExcepcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_FormatoExcepcion.Designer.cs">
+      <DependentUpon>frmRpt_FormatoExcepcion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_HojaRuta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_HojaRuta.Designer.cs">
+      <DependentUpon>frmRpt_HojaRuta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_Prestamos_observaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_Prestamos_observaciones.Designer.cs">
+      <DependentUpon>frmRpt_Prestamos_observaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_Reporte1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_Reporte1.Designer.cs">
+      <DependentUpon>frmRpt_Reporte1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_Reporte2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_Reporte2.Designer.cs">
+      <DependentUpon>frmRpt_Reporte2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_ResolucionComite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_ResolucionComite.Designer.cs">
+      <DependentUpon>frmRpt_ResolucionComite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_Analistas_observaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_Analistas_observaciones.Designer.cs">
+      <DependentUpon>frmRpt_Analistas_observaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_solicitud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\frmRpt_solicitud.Designer.cs">
+      <DependentUpon>frmRpt_solicitud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmsRpts\RptMensualesSolicitudes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmsRpts\RptMensualesSolicitudes.Designer.cs">
+      <DependentUpon>RptMensualesSolicitudes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MD_Coop.cs" />
+    <Compile Include="PleaseWaitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PleaseWaitForm.Designer.cs">
+      <DependentUpon>PleaseWaitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupMessenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupMessenger.Designer.cs">
+      <DependentUpon>PopupMessenger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_acerca_de.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_acerca_de.Designer.cs">
+      <DependentUpon>s_acerca_de.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_add_instruc_desembolso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_add_instruc_desembolso.Designer.cs">
+      <DependentUpon>s_add_instruc_desembolso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_admin_resoluciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_admin_resoluciones.Designer.cs">
+      <DependentUpon>s_admin_resoluciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_AnalisisCredito_01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_AnalisisCredito_01.Designer.cs">
+      <DependentUpon>s_AnalisisCredito_01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_analisis_cuantitativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_analisis_cuantitativo.Designer.cs">
+      <DependentUpon>s_analisis_cuantitativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_analisis_cuantitativo02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_analisis_cuantitativo02.Designer.cs">
+      <DependentUpon>s_analisis_cuantitativo02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_analisis_cuantitativo03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_analisis_cuantitativo03.Designer.cs">
+      <DependentUpon>s_analisis_cuantitativo03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_analistas_observacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_analistas_observacion.Designer.cs">
+      <DependentUpon>s_analistas_observacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_buscarfiliales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_buscarfiliales.Designer.cs">
+      <DependentUpon>s_buscarfiliales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_buscarusuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_buscarusuarios.Designer.cs">
+      <DependentUpon>s_buscarusuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_calcliquidacion_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_calcliquidacion_doc.Designer.cs">
+      <DependentUpon>s_calcliquidacion_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_carpetas_opciones_borrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_carpetas_opciones_borrar.Designer.cs">
+      <DependentUpon>s_carpetas_opciones_borrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cefinfodocentes_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cefinfodocentes_doc.Designer.cs">
+      <DependentUpon>s_cefinfodocentes_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cerrar_solicitud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cerrar_solicitud.Designer.cs">
+      <DependentUpon>s_cerrar_solicitud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_firmas_miembros_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_firmas_miembros_doc.Designer.cs">
+      <DependentUpon>s_cnf_firmas_miembros_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_firmas_miembros_doc02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_firmas_miembros_doc02.Designer.cs">
+      <DependentUpon>s_cnf_firmas_miembros_doc02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_workflow_doc_wf02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_workflow_doc_wf02.Designer.cs">
+      <DependentUpon>s_cnf_workflow_doc_wf02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_Conciliacion_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_Conciliacion_doc.Designer.cs">
+      <DependentUpon>s_Conciliacion_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_conciliacion_doc02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_conciliacion_doc02.Designer.cs">
+      <DependentUpon>s_conciliacion_doc02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_excepciones_doc01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_excepciones_doc01.Designer.cs">
+      <DependentUpon>s_excepciones_doc01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_excepciones_doc02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_excepciones_doc02.Designer.cs">
+      <DependentUpon>s_excepciones_doc02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_filiales_usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_filiales_usuario.Designer.cs">
+      <DependentUpon>s_filiales_usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_miniestado_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_miniestado_cliente.Designer.cs">
+      <DependentUpon>s_miniestado_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_preanalisis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_preanalisis.Designer.cs">
+      <DependentUpon>s_preanalisis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_PreCalificado_info02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_PreCalificado_info02.Designer.cs">
+      <DependentUpon>s_PreCalificado_info02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_PreCalificado_info03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_PreCalificado_info03.Designer.cs">
+      <DependentUpon>s_PreCalificado_info03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_PreCalificado_info04.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_PreCalificado_info04.Designer.cs">
+      <DependentUpon>s_PreCalificado_info04.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_PreCalificado_info05.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_PreCalificado_info05.Designer.cs">
+      <DependentUpon>s_PreCalificado_info05.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_Prestamos_observaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_Prestamos_observaciones.Designer.cs">
+      <DependentUpon>s_Prestamos_observaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_resolucionsol_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_resolucionsol_doc.Designer.cs">
+      <DependentUpon>s_resolucionsol_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_estaciones_miembros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_estaciones_miembros.Designer.cs">
+      <DependentUpon>s_cnf_estaciones_miembros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_Comites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_Comites.Designer.cs">
+      <DependentUpon>s_Comites.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_mover_solicitud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_mover_solicitud.Designer.cs">
+      <DependentUpon>s_mover_solicitud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_PreCalificado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_PreCalificado.Designer.cs">
+      <DependentUpon>s_PreCalificado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_PreCalificado_info01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_PreCalificado_info01.Designer.cs">
+      <DependentUpon>s_PreCalificado_info01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_solicitudes_resoluciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_solicitudes_resoluciones.Designer.cs">
+      <DependentUpon>s_solicitudes_resoluciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_solicitud_detalle01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_solicitud_detalle01.Designer.cs">
+      <DependentUpon>s_solicitud_detalle01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_solic_abiertas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_solic_abiertas.Designer.cs">
+      <DependentUpon>s_solic_abiertas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_asignar_analista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_asignar_analista.Designer.cs">
+      <DependentUpon>s_asignar_analista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_buscar_sol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_buscar_sol.Designer.cs">
+      <DependentUpon>s_buscar_sol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_carpetas_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_carpetas_doc.Designer.cs">
+      <DependentUpon>s_carpetas_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_carpetas_opciones_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_carpetas_opciones_add.Designer.cs">
+      <DependentUpon>s_carpetas_opciones_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_clasificar_sol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_clasificar_sol.Designer.cs">
+      <DependentUpon>s_clasificar_sol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_decisiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_decisiones.Designer.cs">
+      <DependentUpon>s_cnf_decisiones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_decisiones_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_decisiones_doc.Designer.cs">
+      <DependentUpon>s_cnf_decisiones_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_documentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_documentos.Designer.cs">
+      <DependentUpon>s_cnf_documentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_documentos_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_documentos_doc.Designer.cs">
+      <DependentUpon>s_cnf_documentos_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_estaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_estaciones.Designer.cs">
+      <DependentUpon>s_cnf_estaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_estaciones_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_estaciones_doc.Designer.cs">
+      <DependentUpon>s_cnf_estaciones_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_workflow_doc_wf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_workflow_doc_wf.Designer.cs">
+      <DependentUpon>s_cnf_workflow_doc_wf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_workflow_user_estacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_workflow_user_estacion.Designer.cs">
+      <DependentUpon>s_cnf_workflow_user_estacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_marcar_abandono_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_marcar_abandono_doc.Designer.cs">
+      <DependentUpon>s_marcar_abandono_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_mensajes_detalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_mensajes_detalle.Designer.cs">
+      <DependentUpon>s_mensajes_detalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_miniinfo_asignacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_miniinfo_asignacion.Designer.cs">
+      <DependentUpon>s_miniinfo_asignacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_miniinfo_solic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_miniinfo_solic.Designer.cs">
+      <DependentUpon>s_miniinfo_solic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_miniinfo_usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_miniinfo_usuario.Designer.cs">
+      <DependentUpon>s_miniinfo_usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_notas_aceptar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_notas_aceptar.Designer.cs">
+      <DependentUpon>s_notas_aceptar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_recibirdocs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_recibirdocs.Designer.cs">
+      <DependentUpon>s_recibirdocs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDI_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI_Menu.Designer.cs">
+      <DependentUpon>MDI_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_add_notas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_add_notas.Designer.cs">
+      <DependentUpon>s_add_notas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_adjuntos_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_adjuntos_doc.Designer.cs">
+      <DependentUpon>s_adjuntos_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_consclientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_consclientes.Designer.cs">
+      <DependentUpon>s_consclientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_documentossolic_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_documentossolic_doc.Designer.cs">
+      <DependentUpon>s_documentossolic_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_enviar_sol_wf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_enviar_sol_wf.Designer.cs">
+      <DependentUpon>s_enviar_sol_wf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_login.Designer.cs">
+      <DependentUpon>s_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DocSys.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="s_cnf_workflow_conf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_workflow_conf.Designer.cs">
+      <DependentUpon>s_cnf_workflow_conf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_workflow_conf_det01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_workflow_conf_det01.Designer.cs">
+      <DependentUpon>s_cnf_workflow_conf_det01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_workflow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_workflow.Designer.cs">
+      <DependentUpon>s_cnf_workflow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_cnf_workflow_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_cnf_workflow_doc.Designer.cs">
+      <DependentUpon>s_cnf_workflow_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_solicitud_conshist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_solicitud_conshist.Designer.cs">
+      <DependentUpon>s_solicitud_conshist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_solicitud_marcaerror_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_solicitud_marcaerror_doc.Designer.cs">
+      <DependentUpon>s_solicitud_marcaerror_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_usuario_preferencias01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_usuario_preferencias01.Designer.cs">
+      <DependentUpon>s_usuario_preferencias01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_usuario_profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_usuario_profile.Designer.cs">
+      <DependentUpon>s_usuario_profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_zonasriegos_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_zonasriegos_doc.Designer.cs">
+      <DependentUpon>s_zonasriegos_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ws_wfc.cs" />
+    <Compile Include="xmlViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xmlViewer.Designer.cs">
+      <DependentUpon>xmlViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xmlViewer_list.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xmlViewer_list.Designer.cs">
+      <DependentUpon>xmlViewer_list.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Excepciones\ComentarioResolucion.resx">
+      <DependentUpon>ComentarioResolucion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_add_notas.resx">
+      <DependentUpon>e_add_notas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_admnin_excepciones.resx">
+      <DependentUpon>e_admnin_excepciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_buscar_excepcion.resx">
+      <DependentUpon>e_buscar_excepcion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_cnf_agregar_lineamiento.resx">
+      <DependentUpon>e_cnf_agregar_lineamiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_cnf_agregar_regla.resx">
+      <DependentUpon>e_cnf_agregar_regla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_cnf_agregar_tipo_excepcion.resx">
+      <DependentUpon>e_cnf_agregar_tipo_excepcion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_cnf_excepciones.resx">
+      <DependentUpon>e_cnf_excepciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_cnf_lineamientos.resx">
+      <DependentUpon>e_cnf_lineamientos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_cnf_reglas_excepciones.resx">
+      <DependentUpon>e_cnf_reglas_excepciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_documento_excep.resx">
+      <DependentUpon>e_documento_excep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_excepciones_semaforo.resx">
+      <DependentUpon>e_excepciones_semaforo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_mover_excepcion.resx">
+      <DependentUpon>e_mover_excepcion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_nueva_excepcion_solicitud.resx">
+      <DependentUpon>e_nueva_excepcion_solicitud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_excepcion_mov.resx">
+      <DependentUpon>e_excepcion_mov.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\e_resoluciones_excp.resx">
+      <DependentUpon>e_resoluciones_excp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\ListadoAnalistas.resx">
+      <DependentUpon>ListadoAnalistas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excepciones\r_resoluciones_miembros.resx">
+      <DependentUpon>r_resoluciones_miembros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="e_historial_excepciones.resx">
+      <DependentUpon>e_historial_excepciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="e_motivo_anulacion.resx">
+      <DependentUpon>e_motivo_anulacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormsInformativo\s_infoproducto.resx">
+      <DependentUpon>s_infoproducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\DocMinisterioPublico.resx">
+      <DependentUpon>DocMinisterioPublico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\frmRpt_AnalisisCualitativo.resx">
+      <DependentUpon>frmRpt_AnalisisCualitativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\frmRpt_AnalisisCuantitativo.resx">
+      <DependentUpon>frmRpt_AnalisisCuantitativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\frmRpt_ControlDocumental.resx">
+      <DependentUpon>frmRpt_ControlDocumental.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\frmRpt_CroquisFormato.resx">
+      <DependentUpon>frmRpt_CroquisFormato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\frmRpt_Excepciones.resx">
+      <DependentUpon>frmRpt_Excepciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\frmRpt_FormatoExcepcion.resx">
+      <DependentUpon>frmRpt_FormatoExcepcion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\frmRpt_HojaRuta.resx">
+      <DependentUpon>frmRpt_HojaRuta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\frmRpt_Prestamos_observaciones.resx">
+      <DependentUpon>frmRpt_Prestamos_observaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\frmRpt_Reporte1.resx">
+      <DependentUpon>frmRpt_Reporte1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\frmRpt_Reporte2.resx">
+      <DependentUpon>frmRpt_Reporte2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\frmRpt_ResolucionComite.resx">
+      <DependentUpon>frmRpt_ResolucionComite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\frmRpt_Analistas_observaciones.resx">
+      <DependentUpon>frmRpt_Analistas_observaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\frmRpt_solicitud.resx">
+      <DependentUpon>frmRpt_solicitud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmsRpts\RptMensualesSolicitudes.resx">
+      <DependentUpon>RptMensualesSolicitudes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PleaseWaitForm.resx">
+      <DependentUpon>PleaseWaitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupMessenger.resx">
+      <DependentUpon>PopupMessenger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\AutorizacionMinisterioPublico.rdlc" />
+    <EmbeddedResource Include="Reportes\rptAnalisisCuantitativo.rdlc" />
+    <EmbeddedResource Include="Reportes\rptAnalisisCuantitativo2.rdlc" />
+    <EmbeddedResource Include="Reportes\rptAnalistaObserva.rdlc" />
+    <EmbeddedResource Include="Reportes\rptControlDocumental.rdlc" />
+    <EmbeddedResource Include="Reportes\rptCroquis.rdlc" />
+    <EmbeddedResource Include="Reportes\rptFormatoExcepcion.rdlc">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptHojaRutas.rdlc" />
+    <EmbeddedResource Include="Reportes\rptPrestamosObserva.rdlc" />
+    <EmbeddedResource Include="Reportes\rptSolicitudAval1.rdlc" />
+    <EmbeddedResource Include="Reportes\rptAnalisisCualitativo.rdlc">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptSolicitudAval2.rdlc" />
+    <EmbeddedResource Include="Reportes\rptResolucionComite.rdlc">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptSolicitud.rdlc">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptSolicitudGarante.rdlc" />
+    <EmbeddedResource Include="s_acerca_de.resx">
+      <DependentUpon>s_acerca_de.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_add_instruc_desembolso.resx">
+      <DependentUpon>s_add_instruc_desembolso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_admin_resoluciones.resx">
+      <DependentUpon>s_admin_resoluciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_AnalisisCredito_01.resx">
+      <DependentUpon>s_AnalisisCredito_01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_analisis_cuantitativo.resx">
+      <DependentUpon>s_analisis_cuantitativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_analisis_cuantitativo02.resx">
+      <DependentUpon>s_analisis_cuantitativo02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_analisis_cuantitativo03.resx">
+      <DependentUpon>s_analisis_cuantitativo03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_analistas_observacion.resx">
+      <DependentUpon>s_analistas_observacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_buscarfiliales.resx">
+      <DependentUpon>s_buscarfiliales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_buscarusuarios.resx">
+      <DependentUpon>s_buscarusuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_calcliquidacion_doc.resx">
+      <DependentUpon>s_calcliquidacion_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_carpetas_opciones_borrar.resx">
+      <DependentUpon>s_carpetas_opciones_borrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cefinfodocentes_doc.resx">
+      <DependentUpon>s_cefinfodocentes_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cerrar_solicitud.resx">
+      <DependentUpon>s_cerrar_solicitud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_firmas_miembros_doc.resx">
+      <DependentUpon>s_cnf_firmas_miembros_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_firmas_miembros_doc02.resx">
+      <DependentUpon>s_cnf_firmas_miembros_doc02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_workflow_doc_wf02.resx">
+      <DependentUpon>s_cnf_workflow_doc_wf02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_Conciliacion_doc.resx">
+      <DependentUpon>s_Conciliacion_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_conciliacion_doc02.resx">
+      <DependentUpon>s_conciliacion_doc02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_excepciones_doc01.resx">
+      <DependentUpon>s_excepciones_doc01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_excepciones_doc02.resx">
+      <DependentUpon>s_excepciones_doc02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_filiales_usuario.resx">
+      <DependentUpon>s_filiales_usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_miniestado_cliente.resx">
+      <DependentUpon>s_miniestado_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_preanalisis.resx">
+      <DependentUpon>s_preanalisis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_PreCalificado_info02.resx">
+      <DependentUpon>s_PreCalificado_info02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_PreCalificado_info03.resx">
+      <DependentUpon>s_PreCalificado_info03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_PreCalificado_info04.resx">
+      <DependentUpon>s_PreCalificado_info04.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_PreCalificado_info05.resx">
+      <DependentUpon>s_PreCalificado_info05.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_Prestamos_observaciones.resx">
+      <DependentUpon>s_Prestamos_observaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_resolucionsol_doc.resx">
+      <DependentUpon>s_resolucionsol_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_estaciones_miembros.resx">
+      <DependentUpon>s_cnf_estaciones_miembros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_Comites.resx">
+      <DependentUpon>s_Comites.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_mover_solicitud.resx">
+      <DependentUpon>s_mover_solicitud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_PreCalificado.resx">
+      <DependentUpon>s_PreCalificado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_PreCalificado_info01.resx">
+      <DependentUpon>s_PreCalificado_info01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_solicitudes_resoluciones.resx">
+      <DependentUpon>s_solicitudes_resoluciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_solicitud_detalle01.resx">
+      <DependentUpon>s_solicitud_detalle01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_solic_abiertas.resx">
+      <DependentUpon>s_solic_abiertas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_asignar_analista.resx">
+      <DependentUpon>s_asignar_analista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_buscar_sol.resx">
+      <DependentUpon>s_buscar_sol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_carpetas_doc.resx">
+      <DependentUpon>s_carpetas_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_carpetas_opciones_add.resx">
+      <DependentUpon>s_carpetas_opciones_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_clasificar_sol.resx">
+      <DependentUpon>s_clasificar_sol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_decisiones.resx">
+      <DependentUpon>s_cnf_decisiones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_decisiones_doc.resx">
+      <DependentUpon>s_cnf_decisiones_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_documentos.resx">
+      <DependentUpon>s_cnf_documentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_documentos_doc.resx">
+      <DependentUpon>s_cnf_documentos_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_estaciones.resx">
+      <DependentUpon>s_cnf_estaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_estaciones_doc.resx">
+      <DependentUpon>s_cnf_estaciones_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_workflow_doc_wf.resx">
+      <DependentUpon>s_cnf_workflow_doc_wf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_workflow_user_estacion.resx">
+      <DependentUpon>s_cnf_workflow_user_estacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_marcar_abandono_doc.resx">
+      <DependentUpon>s_marcar_abandono_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_mensajes_detalle.resx">
+      <DependentUpon>s_mensajes_detalle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_miniinfo_asignacion.resx">
+      <DependentUpon>s_miniinfo_asignacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_miniinfo_solic.resx">
+      <DependentUpon>s_miniinfo_solic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_miniinfo_usuario.resx">
+      <DependentUpon>s_miniinfo_usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_notas_aceptar.resx">
+      <DependentUpon>s_notas_aceptar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_recibirdocs.resx">
+      <DependentUpon>s_recibirdocs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI_Menu.resx">
+      <DependentUpon>MDI_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_add_notas.resx">
+      <DependentUpon>s_add_notas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_adjuntos_doc.resx">
+      <DependentUpon>s_adjuntos_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_consclientes.resx">
+      <DependentUpon>s_consclientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_documentossolic_doc.resx">
+      <DependentUpon>s_documentossolic_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_enviar_sol_wf.resx">
+      <DependentUpon>s_enviar_sol_wf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_login.resx">
+      <DependentUpon>s_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_seguimiento_doc.resx">
+      <DependentUpon>s_seguimiento_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_solicitud_conshist.resx">
+      <DependentUpon>s_solicitud_conshist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_solicitud_detalle.resx">
+      <DependentUpon>s_solicitud_detalle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_solicitud_doc.resx">
+      <DependentUpon>s_solicitud_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="s_cnf_workflow_conf.resx">
+      <DependentUpon>s_cnf_workflow_conf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_workflow_conf_det01.resx">
+      <DependentUpon>s_cnf_workflow_conf_det01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_workflow.resx">
+      <DependentUpon>s_cnf_workflow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_cnf_workflow_doc.resx">
+      <DependentUpon>s_cnf_workflow_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_solicitud_marcaerror_doc.resx">
+      <DependentUpon>s_solicitud_marcaerror_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_usuario_preferencias01.resx">
+      <DependentUpon>s_usuario_preferencias01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_usuario_profile.resx">
+      <DependentUpon>s_usuario_profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="s_zonasriegos_doc.resx">
+      <DependentUpon>s_zonasriegos_doc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xmlViewer.resx">
+      <DependentUpon>xmlViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xmlViewer_list.resx">
+      <DependentUpon>xmlViewer_list.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DSReportes.xsc">
+      <DependentUpon>DSReportes.xsd</DependentUpon>
+    </None>
+    <None Include="DSReportes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSReportes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DSReportes.xss">
+      <DependentUpon>DSReportes.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.dscodigoQR.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.dsMiembro1.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.dsMiembro2.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.dsMiembro3.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.frmRpt_AnalisisCualitativo.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.frmRpt_Analistas_observaciones.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.frmRpt_Prestamos_observaciones.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.frmRpt_Prestamos_observaciones1.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.frmRpt_Prestamos_observaciones2.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.rpt_AnalisisCuanti_detdeducciones.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.rpt_ResolucionComite2_cls.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.rtp_AnalisisCualitivativo_cls.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.rtp_AnalisisCuanti_cls.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.rtp_Analista_observ_cls.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.rtp_ControlDocumental_cls.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.rtp_HojaRuta_cls.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.rtp_Prestamos_observ_cls.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.rtp_Prestamos_observ_cls1.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.rtp_ResolucionComite_cls.datasource" />
+    <None Include="Properties\DataSources\Docsis_Application.FrmsRpts.rtp_solicitud_Clase.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="s_seguimiento_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_seguimiento_doc.Designer.cs">
+      <DependentUpon>s_seguimiento_doc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_solicitud_detalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_solicitud_detalle.Designer.cs">
+      <DependentUpon>s_solicitud_detalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="s_solicitud_doc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="s_solicitud_doc.Designer.cs">
+      <DependentUpon>s_solicitud_doc.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oficiales_serv.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\docsis_200x512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\docsis_200x50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_login2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="docsis.ico" />
+    <None Include="Resources\score_crediticio_meter5.png" />
+    <None Include="Resources\score_crediticio_meter4.png" />
+    <None Include="Resources\score_crediticio_meter3.png" />
+    <None Include="Resources\score_crediticio_meter2.png" />
+    <None Include="Resources\score_crediticio_meter1.png" />
+    <None Include="Resources\sin_foto.png" />
+    <None Include="Resources\quitar31.ico" />
+    <None Include="Resources\quitar3.ico" />
+    <None Include="Resources\quitar.ico" />
+    <None Include="Resources\nota_excepciones.bmp" />
+    <None Include="Resources\referido_icon.png" />
+    <None Include="Resources\rechazado_icon.png" />
+    <None Include="Resources\process_icon.png" />
+    <None Include="Resources\order_icon02.png" />
+    <None Include="Resources\order_icon.png" />
+    <None Include="Resources\send_icon.png" />
+    <None Include="Resources\wait_icon.png" />
+    <None Include="Resources\lupa_icon1.png" />
+    <None Include="Resources\refresh3.png" />
+    <None Include="Resources\rechazar_icon.png" />
+    <None Include="Resources\resolucion_icon.png" />
+    <None Include="Resources\refresh2.png" />
+    <None Include="Resources\mover_solicitud.GIF" />
+    <None Include="Resources\minimizar_icon.png" />
+    <None Include="Resources\portada1.png" />
+    <None Include="Resources\refresh1.png" />
+    <None Include="Resources\save_icon1.png" />
+    <None Include="Resources\Sagrada-logo-rota3.png" />
+    <None Include="Resources\maximizar_icon.png" />
+    <None Include="Resources\transunion_logo.png" />
+    <None Include="Resources\print_icon1.png" />
+    <None Include="Resources\precalificar_icon1.png" />
+    <None Include="Resources\solic_icon_3.png" />
+    <None Include="Resources\solic_icon_2.png" />
+    <None Include="Resources\solic_icon_1.png" />
+    <None Include="Resources\Sagrada-logo-rota.png" />
+    <None Include="Resources\marcofoto_messenger.png" />
+    <None Include="Resources\dia_calendario01.png" />
+    <None Include="Resources\asignar_solicitud.png" />
+    <None Include="Resources\dia_calendario02.png" />
+    <None Include="Resources\cargando03.gif" />
+    <None Include="Resources\fondo_popupmesenger.png" />
+    <None Include="Resources\icon_salir_w.png" />
+    <None Include="Resources\icon_usuario.png" />
+    <None Include="Resources\3011.GIF" />
+    <None Include="Resources\302.GIF" />
+    <None Include="Resources\303.GIF" />
+    <None Include="Resources\contacto_icon.png" />
+    <None Include="Resources\icon_find01.png" />
+    <None Include="Resources\icon_icon.png" />
+    <None Include="Resources\icon_close01.png" />
+    <None Include="Resources\icon_configuracion.png" />
+    <None Include="Resources\icon_salir_w1.png" />
+    <None Include="Resources\icon_exit2.png" />
+    <None Include="Resources\logo-crediscoring.png" />
+    <None Include="Resources\estacion_actual.png" />
+    <None Include="Resources\comiteiii_icon.png" />
+    <None Include="Resources\enviar_icon.png" />
+    <None Include="Resources\filial_icon.png" />
+    <None Include="Resources\filial_icon2.png" />
+    <None Include="Resources\icon_estacion_wf03.png" />
+    <None Include="Resources\icon_miembros2.png" />
+    <None Include="Resources\aproved_icon.png" />
+    <None Include="Resources\icon_anotacion.png" />
+    <None Include="Resources\icon_analisis.png" />
+    <None Include="Resources\icon_home.png" />
+    <None Include="Resources\icon_opcionmenu.png" />
+    <None Include="Resources\connect_icon.png" />
+    <None Include="Resources\icon_adjunto.png" />
+    <None Include="Resources\icon_apps_menu.png" />
+    <None Include="Resources\icon_menu.png" />
+    <None Include="Resources\icon_menu2.png" />
+    <None Include="Resources\barra_cargando.png" />
+    <None Include="Resources\logo-crediscoring1.png" />
+    <None Include="Resources\finish_icon.png" />
+    <None Include="Resources\icon_database.png" />
+    <None Include="Resources\logo-Coopsafa_gris.png" />
+    <None Include="Resources\imprimir_icon1.png" />
+    <None Include="Resources\Icon_check.png" />
+    <None Include="Resources\icon_chat.png" />
+    <None Include="Resources\calc_icon.png" />
+    <None Include="Resources\calc_icon2.png" />
+    <None Include="Resources\firma_icon.png" />
+    <None Include="Resources\firma_icon02.png" />
+    <Content Include="FormsInformativo\ImgTopaz\CLEAR.bmp" />
+    <Content Include="FormsInformativo\ImgTopaz\OK.bmp" />
+    <Content Include="FormsInformativo\ImgTopaz\please.bmp" />
+    <Content Include="FormsInformativo\ImgTopaz\Sign.bmp" />
+    <None Include="Resources\aprobado_icon.png" />
+    <None Include="Resources\docentes_icon.png" />
+    <None Include="Resources\Logo Blanco-01.png" />
+    <None Include="Resources\foil-154927_640.png" />
+    <Content Include="Resources\logocoopsafa.png" />
+    <None Include="Resources\aceptar_anota.png" />
+    <None Include="Resources\anotaciones_condi.png" />
+    <None Include="Resources\anotaciones_aceptar1.png" />
+    <None Include="Resources\anotaciones_aceptar.png" />
+    <None Include="Resources\palette_collor.png" />
+    <None Include="Resources\foto_profile_default.png" />
+    <None Include="Resources\icon_profile.png" />
+    <None Include="Resources\icon_historico.png" />
+    <None Include="Resources\icon_tips.png" />
+    <None Include="Resources\ver_mis_solicitudes.png" />
+    <None Include="Resources\folder_delete.png" />
+    <None Include="Resources\folder_new.png" />
+    <None Include="Resources\icon_tramites.png" />
+    <None Include="Resources\document_delete.png" />
+    <None Include="Resources\old_paper.png" />
+    <None Include="Resources\document_open02.png" />
+    <None Include="Resources\document_open.png" />
+    <None Include="Resources\document_new.png" />
+    <None Include="Resources\icon_con_error.png" />
+    <None Include="Resources\icon_estacion_wf02.png" />
+    <None Include="Resources\icon_estacion_wf.png" />
+    <None Include="Resources\icon_extension1.png" />
+    <None Include="Resources\icon_extension.png" />
+    <None Include="Resources\icon_filial.png" />
+    <None Include="Resources\hacia_dere2.png" />
+    <None Include="Resources\hacia_izq2.png" />
+    <None Include="Resources\hacia_dere.png" />
+    <None Include="Resources\hacia_izq.png" />
+    <None Include="Resources\flecha_dere.png" />
+    <None Include="Resources\flecha_izq.png" />
+    <None Include="Resources\icon_revoke.png" />
+    <None Include="Resources\icon_grant.png" />
+    <None Include="Resources\button_quitar1.png" />
+    <None Include="Resources\button_quitar.png" />
+    <None Include="Resources\icon_miembros.png" />
+    <None Include="Resources\icon_ruta02.png" />
+    <None Include="Resources\icon_decision02.png" />
+    <None Include="Resources\icon_decision.png" />
+    <None Include="Resources\icon_llegadas02.png" />
+    <None Include="Resources\icon_llegadas.png" />
+    <None Include="Resources\icono_estacion.png" />
+    <None Include="Resources\flujos.png" />
+    <None Include="Resources\icono_extension.png" />
+    <None Include="Resources\icono_mail03.png" />
+    <None Include="Resources\icono_filial.png" />
+    <None Include="Resources\configuracion_wf2.png" />
+    <None Include="Resources\configuracion_wf.png" />
+    <None Include="Resources\cancelar.png" />
+    <None Include="Resources\buscar20x20.png" />
+    <None Include="Resources\buscar60x60.png" />
+    <None Include="Resources\loading1.gif" />
+    <None Include="Resources\loading.gif" />
+    <None Include="Resources\docsis1.png" />
+    <None Include="Resources\docsis.png" />
+    <None Include="Resources\confirmacion_recepcion.png" />
+    <None Include="Resources\confirmacion_lectura.png" />
+    <None Include="Resources\fondo_formularios2.png" />
+    <None Include="Resources\icono_mail011.png" />
+    <None Include="Resources\icono_mail01.png" />
+    <None Include="Resources\sobres.png" />
+    <None Include="Resources\fondo_grisnegro.png" />
+    <None Include="Resources\documentos1.png" />
+    <None Include="Resources\fondo_formularios.png" />
+    <None Include="Resources\usuario.png" />
+    <None Include="Resources\panel_nave.png" />
+    <None Include="Resources\panel_info.png" />
+    <None Include="Resources\enviados.png" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\system-screensaver.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\oficiales_serv.png" />
+    <None Include="Resources\notas_20x23.png" />
+    <None Include="Resources\anotaciones.png" />
+    <None Include="Resources\lupa_15x14.png" />
+    <None Include="Resources\solicitud_25x23.png" />
+    <None Include="Resources\enviar_wf.png" />
+    <None Include="Resources\enviar_wf.bmp" />
+    <None Include="Resources\adjuntar02.png" />
+    <None Include="Resources\adjuntar1.png" />
+    <None Include="Resources\adjuntar.png" />
+    <None Include="Resources\salir_x.png" />
+    <None Include="Resources\guardar_24x28.png" />
+    <None Include="Resources\workflow40x40.png" />
+    <None Include="Resources\solicitud_40x40.png" />
+    <None Include="Resources\documentos.png" />
+    <None Include="Resources\databases_off.png" />
+    <None Include="Resources\logo-Coopsafa.png" />
+    <None Include="Resources\docsis_logo.png" />
+    <None Include="Resources\background_login3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Notificaciones\NotificacionesDll.csproj">
+      <Project>{EAF82D4A-1FA8-482E-8338-5E6BB012512D}</Project>
+      <Name>NotificacionesDll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\wfcModel\wfcModel.csproj">
+      <Project>{CA0DDAF3-FF4B-4240-A19A-5D9048FA94B2}</Project>
+      <Name>wfcModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

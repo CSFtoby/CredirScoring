@@ -1,0 +1,66 @@
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\bin\Debug\Docsis.exe.config
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.csproj.ResolveComReference.cache
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\bin\Debug\Docsis.exe.manifest
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\bin\Debug\Docsis.application
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\bin\Debug\Docsis.exe
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\bin\Debug\Docsis.pdb
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\bin\Debug\CoopSafa_dll.dll
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.InputBox.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.InputBoxFecha.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.RptView.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_asignar_analista.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_buscar_sol.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_carpetas_doc.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_carpetas_opciones_add.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_clasificar_sol.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_cnf_decisiones.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_cnf_decisiones_doc.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_cnf_documentos.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_cnf_documentos_doc.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_cnf_estaciones.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_cnf_estaciones_doc.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_cnf_workflow_doc_wf.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_cnf_workflow_user_estacion.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_marcar_abandono_doc.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_mensajes_detalle.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_miniinfo_solic.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_miniinfo_usuario.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_notas_aceptar.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_recibirdocs.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.MDI_Menu.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_add_notas.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_adjuntos_doc.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_consclientes.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_documentossolic_doc.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_enviar_sol_wf.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_login.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.Properties.Resources.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_seguimiento_doc.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_solicitud_conshist.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_solicitud_detalle.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_solicitud_doc.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_cnf_workflow_conf.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_cnf_workflow_conf_det01.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_cnf_workflow.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_cnf_workflow_doc.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_solicitud_marcaerror_doc.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_usuario_preferencias01.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis_Application.s_usuario_profile.resources
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis.TrustInfo.xml
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis.exe.manifest
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis.application
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis.exe
+C:\Documents and Settings\AD03F100\Mis documentos\Visual Studio 2010\Projects\Wfc_server\Wfc_server\Docsis_Application\obj\Debug\Docsis.pdb
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Docsis_Application\bin\Debug\Docsis.exe.config
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Docsis_Application\obj\Debug\Interop.WMPLib.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Docsis_Application\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Docsis_Application\obj\Debug\Docsis_Application.csproj.ResolveComReference.cache
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Docsis_Application\obj\Debug\Docsis.exe
+C:\Users\AD03F100\Documents\Visual Studio 2010\Projects\Pry_CreditScoring\Docsis_Application\obj\Debug\Docsis.pdb
